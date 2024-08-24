@@ -4,6 +4,8 @@
   Learn English with TED talks
 </p>
 
+_*해당 서비스는 2020년에 만들어진 이후로 업데이트 되지 않았습니다.*_
+
 > Tedowing은 Ted 영상으로 쉐도잉을 하며 영어공부를 하는 서비스입니다.
 
 <h4>
